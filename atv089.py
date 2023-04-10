@@ -1,5 +1,5 @@
 from time import sleep
-#vairaveis
+#variaveis
 lista = []
 listat = []
 nota = []
