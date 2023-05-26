@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João 👋
 
-- 🔭 Hoje estudo para me tornar um desenvolvedor Backend
-- 🌱 Python
+- 🔭 Hoje estudo para me tornar um desenvolvedor 
+
 
 
 
