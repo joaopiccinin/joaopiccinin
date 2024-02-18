@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João 👋
 
-- 🔭 Hoje estudo para me tornar um desenvolvedor 
+- 🔭 Hoje atuo como desenvolver FullStack
 
 
 
